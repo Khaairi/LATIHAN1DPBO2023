@@ -13,6 +13,7 @@ class Mahasiswa
 	private $nim = "";
 	private $major = "";
 	private $faculty = "";
+	private $image = "";
 
 	//constructor
 	public function __construct($name = "", $nim = "", $major = "", $faculty = "", $image = "")
