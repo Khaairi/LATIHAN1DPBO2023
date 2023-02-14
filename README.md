@@ -49,4 +49,5 @@ Pada program C++
 Pada program PHP
 
 ![Screenshot - PHP](https://user-images.githubusercontent.com/100757455/218741121-b612de8e-c9cb-4260-baa4-9129cb16dbc1.png)
-![Screenshot (251)](https://user-images.githubusercontent.com/100757455/218741317-3fc1996b-d96c-4264-aba6-6be3777f2743.png)
+![Screenshot (252)](https://user-images.githubusercontent.com/100757455/218745954-b53de77c-c702-4d54-9353-2c0939ca024c.png)
+
