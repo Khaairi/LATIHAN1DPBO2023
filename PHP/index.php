@@ -27,8 +27,8 @@ echo '<b>List Mahasiswa Awal (setelah dilakukan penambahan data):</b>' . '<br>';
 $crud->show($data);
 
 //proses perubahan (delete dan update data) serta menampilkan data setelah perubahan
-$crud->update($data, 222, "Mahasiswa Baru", "10", "Pendidikan Ilmu Komputer", "MIPA");
-$crud->update($data, 444, "Mahasiswa Baru 2", "20", "Pendidikan Ilmu Komputer", "MIPA");
+$crud->update($data, 222, "Mahasiswa Baru", "10", "Pendidikan Ilmu Komputer", "MIPA", "image/image1.png");
+$crud->update($data, 444, "Mahasiswa Baru 2", "20", "Pendidikan Ilmu Komputer", "MIPA", "image/image4.png");
 echo '<b>List Mahasiswa Setelah Perubahan:</b>' . '<br>';
 $crud->show($data);
 
