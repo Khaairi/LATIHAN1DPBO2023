@@ -28,7 +28,7 @@ class CRUD
 	}
 
 	//method untuk mengubah data (update)
-	public function update(&$list, $nimGanti, $name, $nim, $major, $faculty)
+	public function update(&$list, $nimGanti, $name, $nim, $major, $faculty, $image)
 	{
 		//perulangan untuk mencari data (berdasarkan nim)
 		foreach($list as $llist)
@@ -40,6 +40,7 @@ class CRUD
 				$llist->setNim($nim);
 				$llist->setMajor($major);
 				$llist->setFaculty($faculty);
+				$llist->setImage($image);
 			}
 		}
 	}
